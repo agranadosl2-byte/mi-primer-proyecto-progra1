@@ -1,0 +1,8 @@
+# ¿Qué aprendiste sobre el flujo de trabajo con Git y
+GitHub?
+# Aprendi que cada comando tiene su proposito y que en git manejo lo que voy hacer y todo esto sirve para ser un programador más organizado con los proyectos
+# ¿Cómo fue la experiencia de trabajar en pareja? ¿Encontraste algún
+conflicto? ¿Cómo lo resolviste?
+# No trabaje en pareja pero me costo aprender para que sirve cada comando de git y su proposito, lo resolvi buscando diversos videos explicando cada comando
+# ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+# El orden y el historial que se guarda para saber todos los cambios que se hacen, el respaldo que se hace en la nube y la portabilidad
